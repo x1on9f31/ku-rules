@@ -1,0 +1,2 @@
+DOMAIN-KEYWORD,jdbstatic
+DOMAIN-KEYWORD,javdb
