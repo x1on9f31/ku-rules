@@ -1,1 +1,2 @@
 DOMAIN-KEYWORD,pangulab
+IP-CIDR,10.6.0.242/24
