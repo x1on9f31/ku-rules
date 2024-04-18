@@ -1,3 +1,3 @@
-DOMAIN,ieee.org
-DOMAIN,acm.org
-DOMAIN,u-tokyo.ac.jp
+DOMAIN,ieeexplore.ieee.org
+DOMAIN,dl.acm.org
+DOMAIN-KEYWORD,u-tokyo.ac.jp
