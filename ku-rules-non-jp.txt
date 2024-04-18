@@ -1,2 +1,2 @@
-DOMAIN-KEYWORD,jdbstatic
-DOMAIN-KEYWORD,javdb
+DOMAIN,jdbstatic.com
+DOMAIN,javdb.com
