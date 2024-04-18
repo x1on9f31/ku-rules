@@ -1,2 +1,2 @@
-DOMAIN,jdbstatic.com
+DOMAIN,*.jdbstatic.com
 DOMAIN,javdb.com
