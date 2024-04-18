@@ -1,2 +1,2 @@
-DOMAIN,*.jdbstatic.com
+DOMAIN-SUFFIX,jdbstatic.com
 DOMAIN,javdb.com
