@@ -1,3 +1,4 @@
 DOMAIN,ieeexplore.ieee.org
 DOMAIN,dl.acm.org
 DOMAIN,ut-ppsweb.adm.u-tokyo.ac.jp
+DOMAIN,sciencedirect.com
