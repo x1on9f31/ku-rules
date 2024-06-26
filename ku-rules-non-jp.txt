@@ -1,3 +1,4 @@
 DOMAIN-SUFFIX,jdbstatic.com
 DOMAIN,javdb.com
 DOMAIN-SUFFIX,leetcode.cn
+DOMAIN-SUFFIX,leetcode-cn.com
