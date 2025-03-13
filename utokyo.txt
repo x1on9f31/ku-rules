@@ -1,5 +1,5 @@
-DOMAIN,ieeexplore.ieee.org
-DOMAIN,dl.acm.org
-DOMAIN,ut-ppsweb.adm.u-tokyo.ac.jp
-DOMAIN,sciencedirect.com
-DOMAIN,elsevier.com
+DOMAIN-SUFFIX,ieee.org
+DOMAIN-SUFFIX,dl.acm.org
+DOMAIN-SUFFIX,u-tokyo.ac.jp
+DOMAIN-SUFFIX,sciencedirect.com
+DOMAIN-SUFFIX,elsevier.com
