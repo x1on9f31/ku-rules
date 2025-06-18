@@ -3,3 +3,4 @@ DOMAIN-SUFFIX,dl.acm.org
 DOMAIN-SUFFIX,u-tokyo.ac.jp
 DOMAIN-SUFFIX,sciencedirect.com
 DOMAIN-SUFFIX,elsevier.com
+DOMAIN-SUFFIX,weily.com
