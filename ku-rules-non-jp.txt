@@ -1,5 +1,4 @@
 DOMAIN-SUFFIX,jdbstatic.com
-DOMAIN-KEYWORD,javdb
 DOMAIN-SUFFIX,leetcode.cn
 DOMAIN-SUFFIX,leetcode-cn.com
-DOMAIN-KEYWORD,javbus
+DOMAIN-KEYWORD,jav
