@@ -1,6 +1,6 @@
-DOMAIN,mypikpak.com
-DOMAIN,mypikpak.net
-DOMAIN,pickpackapp.com
-DOMAIN,pikpak.io
-DOMAIN,pikpak.me
-DOMAIN,pikpakdrive.com
+DOMAIN-SUFFIX,mypikpak.com
+DOMAIN-SUFFIX,mypikpak.net
+DOMAIN-SUFFIX,pickpackapp.com
+DOMAIN-SUFFIX,pikpak.io
+DOMAIN-SUFFIX,pikpak.me
+DOMAIN-SUFFIX,pikpakdrive.com
