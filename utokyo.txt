@@ -1,3 +1,4 @@
 DOMAIN-SUFFIX,u-tokyo.ac.jp
 DOMAIN-SUFFIX,elsevier.com
 DOMAIN-SUFFIX,weily.com
+DOMAIN-SUFFIX,springer.com
